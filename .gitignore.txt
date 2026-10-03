@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+node_modules/
+concord.duckdb
+concord.duckdb.wal
+cache.json
+data/raw/
+data/districts_master.csv
+*.bak
+.env
+.venv/

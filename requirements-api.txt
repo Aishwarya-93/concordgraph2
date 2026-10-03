@@ -1,0 +1,7 @@
+duckdb
+pandas
+numpy
+rapidfuzz
+scikit-learn
+fastapi
+uvicorn

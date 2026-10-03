@@ -1,0 +1,10 @@
+streamlit
+duckdb
+pandas
+numpy
+rapidfuzz
+scikit-learn
+pydeck
+anthropic
+fastapi
+uvicorn
